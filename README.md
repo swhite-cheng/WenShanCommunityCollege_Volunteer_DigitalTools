@@ -20,15 +20,7 @@
 
 ## 🚀 快速上手
 
-### 1. 如何使用
 您可以直接透過手機瀏覽器訪問已部屬的網頁連結（見下方 [專案連結](#專案連結)），或將網頁「加入主畫面」作為 Web App 使用，體驗更佳。
-
-### 2. 自行部屬
-若您想建立自己的版本，只需下載本專案的 `index.html` 檔案：
-1.  在 GitHub 建立新的儲存庫 (Repository)。
-2.  上傳 `index.html`。
-3.  進入 **Settings > Pages**，將來源設定為 `main` 分支並儲存。
-4.  數分鐘後，您即可獲得專屬的網頁網址。
 
 ---
 
@@ -38,8 +30,8 @@
 | :--- | :--- |
 | **簽到/簽退 撇步** | [前往工具頁面](https://swhite-cheng.github.io/WenShanCommunityCollege_Volunteer_LoginHelper/) |
 | **AI 助手** | [開啟 Gemini 分享連結](https://gemini.google.com/share/24d9b7579cae) |
-| **景美國中平面圖** | [查看圖片資料](https://swhite-cheng.github.io/WenShanCommunityCollege_Volunteer_LoginHelper/JingMeiJuniorHighSchool_Map.png) |
-| **木柵國中平面圖** | [查看圖片資料](https://swhite-cheng.github.io/WenShanCommunityCollege_Volunteer_LoginHelper/MuZhaJuniorHighSchool_Map.png) |
+| **景美國中平面圖** | [查看圖片資料](https://swhite-cheng.github.io/WenShanCommunityCollege_Volunteer_DigitalTools/JingMeiJuniorHighSchool_Map.png) |
+| **木柵國中平面圖** | [查看圖片資料](https://swhite-cheng.github.io/WenShanCommunityCollege_Volunteer_DigitalTools/MuZhaJuniorHighSchool_Map.png) |
 
 ---
 
